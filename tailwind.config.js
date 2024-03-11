@@ -9,7 +9,9 @@ module.exports = {
       white: "#FFFFFF",
       dgray: "#4D4D4D",
       silver: "#F5F7FA",
-
+      black: "#263238",
+      lgray: "#D9DBE1",
+      transparent: "#00",
     },
   },
   plugins: [],
